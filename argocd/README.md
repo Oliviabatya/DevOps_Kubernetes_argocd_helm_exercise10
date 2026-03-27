@@ -28,7 +28,7 @@ The default username is admin. The initial password is stored in a Kubernetes se
 - After login I have changed password to `admin@123`
 
 ## View configuration if needed
-```kubectl edit svc argocd-server -n argocd  #enable Node Port``
+```kubectl edit svc argocd-server -n argocd  #enable Node Port```
 
 # Apply the Argo CD Application
 
